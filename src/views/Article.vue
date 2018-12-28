@@ -9,13 +9,13 @@
       <div class="article-meta">
         <a href=""><img src="http://i.imgur.com/Qr71crq.jpg" /></a>
         <div class="info">
-          <a href="" class="author">Eric Simons</a>
+          <a href="" class="author">Eric Simon</a>
           <span class="date">January 20th</span>
         </div>
         <button class="btn btn-sm btn-outline-secondary">
           <i class="ion-plus-round"></i>
           &nbsp;
-          Follow Eric Simons <span class="counter">(10)</span>
+          Follow Eric Simon <span class="counter">(10)</span>
         </button>
         &nbsp;&nbsp;
         <button class="btn btn-sm btn-outline-primary">
@@ -46,14 +46,14 @@
       <div class="article-meta">
         <a href="profile.html"><img src="http://i.imgur.com/Qr71crq.jpg" /></a>
         <div class="info">
-          <a href="" class="author">Eric Simons</a>
+          <a href="" class="author">Eric Simon</a>
           <span class="date">January 20th</span>
         </div>
 
         <button class="btn btn-sm btn-outline-secondary">
           <i class="ion-plus-round"></i>
           &nbsp;
-          Follow Eric Simons <span class="counter">(10)</span>
+          Follow Eric Simon <span class="counter">(10)</span>
         </button>
         &nbsp;
         <button class="btn btn-sm btn-outline-primary">
